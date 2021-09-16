@@ -1,0 +1,42 @@
+#cabecera{
+    background: steelblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.destacado{
+    font-size: 30px;
+}
+
+.parrafo{
+    font-size: 20px;
+    color: teal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+
+}
+
+#cancion{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#container{
+    margin: 30px;
+    padding: 30px;
+    border-style: solid;
+    border-color: steelblue;
+}
+
+#bordecitos{
+    padding: 50px;
+    border-style: solid;
+    border-color: steelblue;
+}
+
+.titulo{
+    margin: 30px;s
+    padding: 5px 100px;
+    border-style: none;
+    background: wheat;
+}
