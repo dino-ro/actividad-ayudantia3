@@ -40,3 +40,10 @@
     border-style: none;
     background: wheat;
 }
+
+.titulo:hover{
+    margin: 30px;
+    padding: 5px 100px;
+    border-style: none;
+    background: rgb(240, 179, 245);
+}
